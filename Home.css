@@ -14,7 +14,7 @@
 }
 
 .u-section-1 .u-layout-wrap-1 {
-  margin: 44px auto 0 0;
+  margin: 44px auto 60px 0;
 }
 
 .u-section-1 .u-layout-cell-1 {
@@ -62,13 +62,6 @@
   padding: 9px 22px;
 }
 
-.u-section-1 .u-text-3 {
-  font-size: 4.5rem;
-  line-height: 1;
-  font-weight: 900;
-  margin: -19px -15px 60px 125px;
-}
-
 @media (max-width: 1199px) {
   .u-section-1 .u-layout-wrap-1 {
     margin-right: initial;
@@ -90,11 +83,6 @@
 
   .u-section-1 .u-btn-2 {
     margin-right: 236px;
-  }
-
-  .u-section-1 .u-text-3 {
-    margin-right: 0;
-    margin-left: 0;
   }
 }
 
@@ -150,13 +138,5 @@
   .u-section-1 .u-btn-2 {
     margin-top: 27px;
     margin-right: 54px;
-  }
-
-  .u-section-1 .u-text-3 {
-    font-size: 1.5rem;
-    width: auto;
-    margin-top: 24px;
-    margin-right: -14px;
-    margin-left: 14px;
   }
 }
